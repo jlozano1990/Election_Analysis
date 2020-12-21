@@ -31,4 +31,8 @@ The election commission has asked for more detailed results when it comes to the
   - There were 369,711 votes cast in this congressional election.
   - Denver had the highest voter turnout by far with 306,055 votes and 82.8% of total votes cast, followed by Jefferson county with 38,855 votes and 10.5% of total votes cast, and finally Arapahoe county with 24,801 votes and 6.7% of total votes cast.
   - Denver had the highest number of votes cast.
-  - Diana DeGette had the most votes in her favor with 272,892 and 73.% of total votes in her favor.
+  - Diana DeGette had the most votes in her favor with 272,892 and 73.8% of total votes in her favor. In second place was Charles Casper Stockham, who managed to get 38,855 votes, securing 10.5% of the total votes. Finally, Raymon Anthony Doane finished with 11,606 votes, securing 3.1% of the vote.
+  - Diana DeGette won the election with a very clear margin, securing 272,892 votes and 73.8% of the total votes in her favor.
+## Election-Audit Summary
+In regards to the script written to analyze the election data, this script can be used in various different cases if necessary. The script would be very easy to modify to analyze even datasets with more columns of information. For example, if a dataset included the age groups of people voting, we could analyze it to see what age groups had the highest voter turnout rates. We could even combine those results with the results we have about the county voting information to see what the highest turnout rates were for both groups.
+This script could also be modified to take in more voter information. We could use it to analyze voting data for the entire country if necessary! The script can be modified very easily to interpret new data or bigger datasets than the one we have now.
