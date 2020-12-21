@@ -24,3 +24,9 @@ The analysis of the election shows that:
     - Diane DeGette who received 73.8% of the vote and 272,892 votes.
 ## Challenge Overview
 ### Challenge Summary
+The election commission has asked for more detailed results when it comes to the election, so we are analyzing voter turnout by the counties they voted in.
+### Audit Results
+  - There were 369,711 votes cast in this congressional election.
+  - Denver had the highest voter turnout by far with 306,055 votes and 82.8% of total votes cast, followed by Jefferson county with 38,855 votes and 10.5% of total votes cast, and finally Arapahoe county with 24,801 votes and 6.7% of total votes cast.
+  - Denver had the highest number of votes cast.
+  - Diana DeGette had the most votes in her favor with 272,892 and 73.% of total votes in her favor.
